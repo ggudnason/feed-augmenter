@@ -1,0 +1,10 @@
+{
+  "name": "feed-augmenter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proxy remote JSON feeds for vMix and augment them with custom fields via a web dashboard",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.js"
+  }
+}

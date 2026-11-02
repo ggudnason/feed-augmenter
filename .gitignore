@@ -1,0 +1,5 @@
+# Local setup: feed URLs may contain access tokens
+config.json
+node_modules/
+.DS_Store
+Thumbs.db
